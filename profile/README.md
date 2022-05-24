@@ -1,2 +1,2 @@
 # Abstruct
-SIA is general purpose AI tool.
+SIA is a general purpose AI tool.
